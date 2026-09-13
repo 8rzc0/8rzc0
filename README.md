@@ -16,4 +16,4 @@ I'm [Bryan](8rzc0), a aspiring IT professional with a burning passion to help an
 - Cisco Packet Tracer
 
 ## How to Reach Me
-- Email: Borozco0@pm.me
+- Email: borozco0@pm.me
