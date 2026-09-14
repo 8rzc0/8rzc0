@@ -7,13 +7,14 @@ I've discovered how much I enjoy working with technology and solving problems th
 
 ## Skills
 
-| **Skill**                              | **Associated Project** |
-| -------------------------------------- | ---------------------- |
-| Active Directory User Administration  | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#user-account-management) |
-| Account Unlocks                        | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#account-unlock) |
-| Group Policy Administration            | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#group-policy--account-security) |
-| Windows Server 2022 Administration     | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#active-directory-domain-services--domain-controller) |
-
+| **Section** | **Associated Project** |
+| ----------- | ---------------------- |
+| Active Directory Domain Services & Domain Controller | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#active-directory-domain-services--domain-controller) |
+| User Account Management | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#user-account-management) |
+| Domain-Joined Windows Clients | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#domain-joined-windows-clients) |
+| Group Policy & Account Security | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#group-policy--account-security) |
+| Account Unlock | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#account-unlock) |
+| Remote Administration | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#remote-administration) |
 ## Tools
 
 ### Systems & Administration
