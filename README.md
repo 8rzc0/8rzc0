@@ -3,7 +3,7 @@
 I'm an aspiring IT professional with a burning passion to help and learn about the world of Information technology 
 
 ## Objective
-Learning about information technology has helped me discover how much I enjoy working with technology and solving problems, and I’m now aiming to start my career in a Tier 1 Help Desk role while also earning my CCNA certification
+Learning about IT has helped me discover how much I enjoy working with technology and solving problems, and I’m now aiming to start my career in a Tier 1 Help Desk role while also earning my CCNA certification
 
 ## Skills
 
