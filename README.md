@@ -20,6 +20,8 @@ I've discovered how much I enjoy working with technology and solving problems th
 ### Systems & Administration
 - Active Directory
 - Windows Server 2022
+- Windows 10
+- Windows 11 
 - Group Policy
 
 ### Networking
