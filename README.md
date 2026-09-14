@@ -7,13 +7,12 @@ I've discovered how much I enjoy working with technology and solving problems th
 
 ## Skills
 
-| **Skill**                                      | **Associated Project** |
-| ---------------------------------------------- | ---------------------- |
-| Active Directory User and Group Administration | [Active Directory Home Lab](YOUR-LINK) |
-| Password Resets and Account Unlocks            | [Active Directory Home Lab](YOUR-LINK) |
-| Group Policy and Access Management             | [Active Directory Home Lab](YOUR-LINK) |
-| Windows Server 2022 Administration             | [Active Directory Home Lab](YOUR-LINK) |
-| Network Configuration and Troubleshooting      | [CCNA / Packet Tracer Labs](YOUR-LINK) |
+| **Skill**                              | **Associated Project** |
+| -------------------------------------- | ---------------------- |
+| Active Directory User Administration  | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#user-account-management) |
+| Account Unlocks                        | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#account-unlock) |
+| Group Policy Administration            | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#group-policy--account-security) |
+| Windows Server 2022 Administration     | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#active-directory-domain-services--domain-controller) |
 
 ## Tools
 
@@ -34,7 +33,6 @@ I've discovered how much I enjoy working with technology and solving problems th
 ## Projects
 
 - Active Directory Home Lab
-- CCNA / Packet Tracer Labs
   
 ## How to Reach Me
 - Email: borozco0@pm.me
