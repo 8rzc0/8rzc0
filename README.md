@@ -27,9 +27,9 @@ Learning about information technology has helped me discover how much I enjoy wo
 
 ## Certifications
 
-- [CompTIA A+](https://www.credly.com/badges/dc844bf8-1702-4645-aaa3-46cc2a18e19d/public_url)
-- [CompTIA Network+](https://www.credly.com/badges/c88387e3-7a69-4859-8df8-70fb985fc4de/public_url)
-- [CompTIA Security+](https://www.credly.com/badges/147ca3d3-bac1-4175-9cf5-4b8e264edec1/public_url)
+[![CompTIA A+](https://images.credly.com/size/110x110/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob)](https://www.credly.com/badges/dc844bf8-1702-4645-aaa3-46cc2a18e19d/public_url)
+[![CompTIA Network+](https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob)](https://www.credly.com/badges/c88387e3-7a69-4859-8df8-70fb985fc4de/public_url)
+[![CompTIA Security+](https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/147ca3d3-bac1-4175-9cf5-4b8e264edec1/public_url)
 
 ## Projects
 
