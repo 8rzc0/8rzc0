@@ -1,4 +1,4 @@
-# Hey there!😆 
+# Hey 👋 
 
 I'm [Bryan](8rzc0), a aspiring IT professional with a burning passion to help and learn about the world of Information technology 
 
