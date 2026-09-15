@@ -24,7 +24,7 @@ I've discovered how much I enjoy working with technology and solving problems th
 - Windows 10
 - Windows 11 
 - Group Policy
-### Help Desk & Ticketing
+### Ticketing
 - Jira Service Management
 
 ## Certifications
