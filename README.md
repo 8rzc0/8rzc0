@@ -1,6 +1,6 @@
 # Hello, I'm Bryan
 
-I'm an aspiring IT professional with a burning passion to help and learn about the world of Information Technology. 
+I'm an aspiring IT professional with a burning passion to learn more about the world of Information Technology. 
 
 ## Objective
 I've discovered how much I enjoy working with technology and solving problems through IT. I’m now aiming to start my career in a Tier 1 Help Desk role while also earning my CCNA certification.
@@ -9,12 +9,13 @@ I've discovered how much I enjoy working with technology and solving problems th
 
 | **Section** | **Associated Project** |
 | ----------- | ---------------------- |
-| Active Directory Domain Services & Domain Controller | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#active-directory-domain-services--domain-controller) |
 | User Account Management | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#user-account-management) |
-| Domain-Joined Windows Clients | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#domain-joined-windows-clients) |
-| Group Policy & Account Security | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#group-policy--account-security) |
 | Account Unlock | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#account-unlock) |
 | Remote Administration | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#remote-administration) |
+| Help Desk Queue | [Jira Ticketing System Help Desk Lab](https://github.com/8rzc0/Jira-Ticketing-System-Help-Desk-Lab#help-desk-queue) |
+| Network Connectivity Troubleshooting | [Jira Ticketing System Help Desk Lab](https://github.com/8rzc0/Jira-Ticketing-System-Help-Desk-Lab#network-connectivity-troubleshooting) |
+| Tier 2 Escalation | [Jira Ticketing System Help Desk Lab](https://github.com/8rzc0/Jira-Ticketing-System-Help-Desk-Lab#tier-2-escalation) |
+
 ## Tools
 
 ### Systems & Administration
@@ -23,7 +24,8 @@ I've discovered how much I enjoy working with technology and solving problems th
 - Windows 10
 - Windows 11 
 - Group Policy
-
+### Help Desk & Ticketing
+- Jira Service Management
 ### Networking
 - Cisco Packet Tracer
 
@@ -35,7 +37,8 @@ I've discovered how much I enjoy working with technology and solving problems th
 
 ## Projects
 
-- Active Directory Home Lab
+- [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab)
+- [Jira Ticketing System Help Desk Lab](https://github.com/8rzc0/Jira-Ticketing-System-Help-Desk-Lab)
   
 ## How to Reach Me
 - Email: borozco0@pm.me
