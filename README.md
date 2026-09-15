@@ -1,6 +1,6 @@
 # Hello, I'm Bryan
 
-I'm an aspiring IT professional with a burning passion to learn more about the world of Information Technology. 
+I'm beginning my journey in IT with a burning passion to learn more about the world of Information Technology. 
 
 ## Objective
 I've discovered how much I enjoy working with technology and solving problems through IT. I’m now aiming to start my career in a Tier 1 Help Desk role while also earning my CCNA certification.
