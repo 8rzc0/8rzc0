@@ -26,8 +26,6 @@ I've discovered how much I enjoy working with technology and solving problems th
 - Group Policy
 ### Help Desk & Ticketing
 - Jira Service Management
-### Networking
-- Cisco Packet Tracer
 
 ## Certifications
 
