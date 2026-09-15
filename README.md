@@ -12,9 +12,9 @@ I've discovered how much I enjoy working with technology and solving problems th
 | User Account Management | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#user-account-management) |
 | Account Unlock | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#account-unlock) |
 | Remote Administration | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#remote-administration) |
-| Help Desk Queue | [Jira Ticketing System Help Desk Lab](https://github.com/8rzc0/Jira-Ticketing-System-Help-Desk-Lab#help-desk-queue) |
-| Network Connectivity Troubleshooting | [Jira Ticketing System Help Desk Lab](https://github.com/8rzc0/Jira-Ticketing-System-Help-Desk-Lab#network-connectivity-troubleshooting) |
-| Tier 2 Escalation | [Jira Ticketing System Help Desk Lab](https://github.com/8rzc0/Jira-Ticketing-System-Help-Desk-Lab#tier-2-escalation) |
+| Help Desk Queue | [Jira Ticketing System Lab](https://github.com/8rzc0/Jira-Ticketing-System-Lab#help-desk-queue) |
+| Network Connectivity Troubleshooting | [Jira Ticketing System Lab](https://github.com/8rzc0/Jira-Ticketing-System-Lab#network-connectivity-troubleshooting) |
+| Tier 2 Escalation | [Jira Ticketing System Lab](https://github.com/8rzc0/Jira-Ticketing-System-Lab#tier-2-escalation) |
 
 ## Tools
 
@@ -38,7 +38,7 @@ I've discovered how much I enjoy working with technology and solving problems th
 ## Projects
 
 - [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab)
-- [Jira Ticketing System Help Desk Lab](https://github.com/8rzc0/Jira-Ticketing-System-Help-Desk-Lab)
+- [Jira Ticketing System Lab](https://github.com/8rzc0/Jira-Ticketing-System-Lab)
   
 ## How to Reach Me
 - Email: borozco0@pm.me
