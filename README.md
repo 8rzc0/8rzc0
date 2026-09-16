@@ -9,7 +9,9 @@ I've discovered how much I enjoy working with technology and solving problems th
 
 | **Section** | **Associated Project** |
 | ----------- | ---------------------- |
-| User Account Management | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#user-account-management) |
+| Active Directory Administration | [Active Directory Infrastructure Home Lab](https://github.com/8rzc0/Active-Directory-Infrastructure-Home-Lab#active-directory-domain-services--domain-configuration) |
+| DHCP & DNS Networking | [Active Directory Infrastructure Home Lab](https://github.com/8rzc0/Active-Directory-Infrastructure-Home-Lab#dhcp--dns) |
+| PowerShell Automation | [Active Directory Infrastructure Home Lab](https://github.com/8rzc0/Active-Directory-Infrastructure-Home-Lab#powershell-user-automation) |
 | Account Unlock | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#account-unlock) |
 | Remote Administration | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#remote-administration) |
 | Help Desk Queue | [Jira Ticketing System Home Lab](https://github.com/8rzc0/Jira-Ticketing-System-Home-Lab#help-desk-queue) |
@@ -22,20 +24,31 @@ I've discovered how much I enjoy working with technology and solving problems th
 - Active Directory
 - Windows Server 2022
 - Windows 10
-- Windows 11 
+- Windows 11
 - Group Policy
+- PowerShell
+
+### Networking
+- DHCP
+- DNS
+- NAT
+
+### Virtualization & Remote Access
+- VirtualBox
+- RDP
+
 ### Ticketing
-- Jira Service Management
+- Jira 
 
 ## Certifications
-
 [![CompTIA A+](https://images.credly.com/size/110x110/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob)](https://www.credly.com/badges/dc844bf8-1702-4645-aaa3-46cc2a18e19d/public_url)
 [![CompTIA Network+](https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob)](https://www.credly.com/badges/c88387e3-7a69-4859-8df8-70fb985fc4de/public_url)
 [![CompTIA Security+](https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/147ca3d3-bac1-4175-9cf5-4b8e264edec1/public_url)
 
 ## Projects
-
+- [Active Directory Infrastructure Home Lab](https://github.com/8rzc0/Active-Directory-Infrastructure-Home-Lab)
+- [Jira Ticketing System Home Lab](https://github.com/8rzc0/Jira-Ticketing-System-Home-Lab)
 - [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab)
-- [Jira Ticketing System Home Lab](https://github.com/8rzc0/Jira-Ticketing-System-Home-Lab)  
+  
 ## How to Reach Me
 - Email: borozco0@pm.me
