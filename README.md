@@ -10,7 +10,7 @@ I've discovered how much I enjoy working with technology and solving problems th
 | **Section** | **Associated Project** |
 | ----------- | ---------------------- |
 | Active Directory Administration | [Active Directory Infrastructure Home Lab](https://github.com/8rzc0/Active-Directory-Infrastructure-Home-Lab#active-directory-domain-services--domain-configuration) |
-| DHCP & DNS Networking | [Active Directory Infrastructure Home Lab](https://github.com/8rzc0/Active-Directory-Infrastructure-Home-Lab#dhcp--dns) |
+| DHCP & DNS | [Active Directory Infrastructure Home Lab](https://github.com/8rzc0/Active-Directory-Infrastructure-Home-Lab#dhcp--dns) |
 | PowerShell Automation | [Active Directory Infrastructure Home Lab](https://github.com/8rzc0/Active-Directory-Infrastructure-Home-Lab#powershell-user-automation) |
 | Account Unlock | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#account-unlock) |
 | Remote Administration | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#remote-administration) |
