@@ -31,8 +31,7 @@ I've discovered how much I enjoy working with technology and solving problems th
 ### Networking
 - DHCP
 - DNS
-- NAT
-
+  
 ### Virtualization & Remote Access
 - VirtualBox
 - RDP
