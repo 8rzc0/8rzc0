@@ -30,9 +30,7 @@ I've discovered how much I enjoy working with technology and solving problems th
 
 ### Cloud & Identity
 - Microsoft 365
-- Microsoft Entra ID
-- Microsoft 365 admin center
-- Microsoft Entra admin center
+- Microsoft Entra
 
 ### Networking
 - DHCP
