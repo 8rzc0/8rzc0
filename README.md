@@ -3,19 +3,19 @@
 I'm beginning my journey in IT with a burning passion to learn more about the world of Information Technology. 
 
 ## Objective
-I've discovered how much I enjoy working with technology and solving problems through IT. I’m now aiming to start my career in a Tier 1 Help Desk role while also earning my CCNA certification.
+I've discovered how much I enjoy working with technology and solving problems through IT. I'm now aiming to start my career in a Tier 1 Help Desk role while also earning my CCNA certification.
 
 ## Skills
 
 | **Section** | **Associated Project** |
 | ----------- | ---------------------- |
-| Active Directory Administration | [Active Directory Infrastructure Home Lab](https://github.com/8rzc0/Active-Directory-Infrastructure-Home-Lab#active-directory-domain-services--domain-configuration) |
-| DHCP & DNS | [Active Directory Infrastructure Home Lab](https://github.com/8rzc0/Active-Directory-Infrastructure-Home-Lab#dhcp--dns) |
 | PowerShell Automation | [Active Directory Infrastructure Home Lab](https://github.com/8rzc0/Active-Directory-Infrastructure-Home-Lab#powershell-user-automation) |
+| DHCP & DNS | [Active Directory Infrastructure Home Lab](https://github.com/8rzc0/Active-Directory-Infrastructure-Home-Lab#dhcp--dns) |
 | Account Unlock | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#account-unlock) |
 | Remote Administration | [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab#remote-administration) |
+| Microsoft 365 Administration | [M365 Admin Center Lab](https://github.com/8rzc0/M365-Admin-Center-Lab#user-account-management) |
+| Multi-Factor Authentication | [M365 Admin Center Lab](https://github.com/8rzc0/M365-Admin-Center-Lab#multi-factor-authentication) |
 | Help Desk Queue | [Jira Ticketing System Home Lab](https://github.com/8rzc0/Jira-Ticketing-System-Home-Lab#help-desk-queue) |
-| Network Connectivity Troubleshooting | [Jira Ticketing System Home Lab](https://github.com/8rzc0/Jira-Ticketing-System-Home-Lab#network-connectivity-troubleshooting) |
 | Tier 2 Escalation | [Jira Ticketing System Home Lab](https://github.com/8rzc0/Jira-Ticketing-System-Home-Lab#tier-2-escalation) |
 
 ## Tools
@@ -27,6 +27,12 @@ I've discovered how much I enjoy working with technology and solving problems th
 - Windows 11
 - Group Policy
 - PowerShell
+
+### Cloud & Identity
+- Microsoft 365
+- Microsoft Entra ID
+- Microsoft 365 admin center
+- Microsoft Entra admin center
 
 ### Networking
 - DHCP
@@ -46,6 +52,7 @@ I've discovered how much I enjoy working with technology and solving problems th
 
 ## Projects
 - [Active Directory Infrastructure Home Lab](https://github.com/8rzc0/Active-Directory-Infrastructure-Home-Lab)
+- [M365 Admin Center Lab](https://github.com/8rzc0/M365-Admin-Center-Lab)
 - [Jira Ticketing System Home Lab](https://github.com/8rzc0/Jira-Ticketing-System-Home-Lab)
 - [Active Directory Home Lab](https://github.com/8rzc0/Active-Directory-Home-Lab)
   
